@@ -4,6 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .action-group {
@@ -72,4 +73,19 @@
   justify-content: center;
   background: none;
   border: none;
+}
+
+.article-title {
+  font-size: 22px;
+}
+
+.article-summary {
+  font-size: 13px;
+  line-height: 18px;
+}
+
+.section-title {
+  font-size: 16px;
+  color: rgba(3, 3, 3, 0.4);
+  font-weight: 700;
 }
