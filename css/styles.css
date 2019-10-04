@@ -168,3 +168,20 @@
   width: 135px;
   height: 90px;
 }
+
+.mini-logo {
+  background: #f72210;
+  width: 29px;
+  height: 28px;
+  max-width: 30px;
+}
+
+.sign-up-btn {
+  border-radius: 0;
+  background:#666666;
+  border: none;
+}
+
+.text-small {
+  font-size: 15px;
+}
