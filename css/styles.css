@@ -92,7 +92,8 @@
 }
 
 .underline {
-  border-bottom: 0.5px solid
+  border-width: 0.5px;
+  border-style: solid;
 }
 
 .article-image {
@@ -133,4 +134,32 @@
 
 .card-transparent {
   background: transparent;
+}
+
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.bottom-left {
+  bottom: 0;
+  left: 0;
+}
+
+.avatar {
+  width: 63px;
+  height: 63px;
+}
+
+.avatar-title {
+  font-size: 17px;
+}
+
+.author {
+  clear: left;
+  color: #555;
+  font-size: 14px;
 }
