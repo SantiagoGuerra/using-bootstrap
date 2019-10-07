@@ -209,6 +209,11 @@ body {
   background: #fff;
 }
 
+.bg-gray-light {
+  background: #F4F5F6
+}
+
+
 @media screen and (min-width: 768px) {
   .article-summary {
     font-size: 15px;
