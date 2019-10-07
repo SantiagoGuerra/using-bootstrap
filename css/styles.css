@@ -256,6 +256,16 @@ body {
   font-size: 18px;
 }
 
+.mapping-image {
+  height: 172px;
+  width: 258px;
+}
+
+.title-section {
+  color: #f72210;
+  font-size: 22px;
+}
+
 
 @media screen and (min-width: 768px) {
   .article-summary {
@@ -264,5 +274,10 @@ body {
 
   .border-md-bottom {
     border-bottom: 0.5px solid #cacaca
+  }
+
+  .mapping-image {
+    width: 135px;
+  height: 90px;
   }
 }
