@@ -236,4 +236,8 @@ body {
   .article-summary {
     font-size: 15px;
   }
+
+  .border-md-bottom {
+    border-bottom: 0.5px solid #cacaca
+  }
 }
