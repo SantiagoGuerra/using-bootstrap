@@ -293,6 +293,12 @@ body {
   width: 255px;
 }
 
+.newsletter-img {
+  background: url("https://d.newsweek.com/en/full/1525348/newsletter-promo-home-page.png") center center / cover no-repeat;
+  content: " ";
+  height: 160px;
+  width: 100%
+}
 
 @media screen and (min-width: 768px) {
   .article-summary {
@@ -306,5 +312,9 @@ body {
   .mapping-image {
     width: 135px;
   height: 90px;
+  }
+
+  .newsletter-img {
+    height: 288px
   }
 }
