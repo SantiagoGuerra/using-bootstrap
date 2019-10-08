@@ -300,6 +300,46 @@ body {
   width: 100%
 }
 
+.st0 {
+  stroke: #f72210;
+  fill: #f72210;
+}
+
+.svg-logo {
+  width: 236px;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.list-style-none {
+  list-style: none;
+}
+
+.list-item {
+  font-size: 14px;
+}
+
+.list-item > a {
+  color: #666;
+}
+
+.font-size-14 {
+  font-size: 14px;
+  color: #666;
+}
+
+.icon-sm {
+  height: 24px;
+  fill: #666;
+}
+
+.icon-sm:hover {
+  fill: #3581F4;
+  cursor: pointer;
+}
+
 @media screen and (min-width: 768px) {
   .article-summary {
     font-size: 15px;
