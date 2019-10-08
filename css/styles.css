@@ -266,6 +266,33 @@ body {
   font-size: 22px;
 }
 
+.title-16 {
+  font-size: 16px;
+}
+
+.border-radius-none {
+  border-radius: 0;
+}
+
+.paragraph-15 {
+  font-size: 15px;
+}
+
+.top-left {
+  top: 0;
+  left: 0;
+}
+
+.bottom-right {
+  bottom: -12px;
+  right: 0;
+}
+
+.ima-both {
+  height: 227;
+  width: 255px;
+}
+
 
 @media screen and (min-width: 768px) {
   .article-summary {
