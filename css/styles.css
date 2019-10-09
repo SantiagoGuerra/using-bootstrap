@@ -340,6 +340,66 @@ body {
   cursor: pointer;
 }
 
+.svg-logo-white {
+  fill: #fff;
+  width: 700px;
+}
+
+.logo-header {
+  width: 400px;
+}
+
+.bottom-right-t {
+  bottom: 0;
+  right: 0;
+}
+
+.search-icon {
+  height: 20px;
+  width: 20px;
+}
+
+.navigation-header {
+  height: 56px;
+  position: absolute;
+  bottom: -43px;
+  left: 0;
+  background: #fff;
+  display: flex;
+  align-items: center;
+}
+
+.navigation-header::before {
+  content: " ";
+  width: 16px;
+  height: 15px;
+  top: -6.5px;
+  right: -6.5px;
+  background: #f72210;
+  position: absolute;
+  transform: rotate(45deg);
+}
+
+.header-list > li {
+  font-size: 21px;
+  padding: 0 16px;
+  border-right: 0.5px solid rgb(216, 216, 216);
+}
+
+.header-list > li > a {
+  color: #000;
+  font-weight: 700;
+}
+
+.header-list > li > a:hover {
+  text-decoration: none;
+  color: #f72210;
+}
+
+.search {
+  color: #666;
+}
+
 @media screen and (min-width: 768px) {
   .article-summary {
     font-size: 15px;
