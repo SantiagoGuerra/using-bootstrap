@@ -29,7 +29,7 @@
     Learning about how to use Bootstrap in our projects
     <br />
     <br />
-    <a href="#">View Demo</a>
+    <a href="https://santiagoguerra.github.io/using-bootstrap/">View Demo</a>
     ·
     <a href="#">Report Bug</a>
     ·
