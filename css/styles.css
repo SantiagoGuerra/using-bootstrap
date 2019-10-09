@@ -8,7 +8,7 @@
 }
 
 body {
-  background: #F4F5F6;
+  background: #f4f5f6;
 }
 
 .action-group {
@@ -37,19 +37,17 @@ body {
 
 .toggler-icon::before {
   content: " ";
-  background: red;
   height: 4px;
   width: 24px;
   background: white;
   position: absolute;
   display: inline-block;
   top: -8px;
-  left: 0
+  left: 0;
 }
 
 .toggler-icon {
   content: " ";
-  background: red;
   height: 4px;
   width: 24px;
   background: white;
@@ -59,14 +57,13 @@ body {
 
 .toggler-icon::after {
   content: " ";
-  background: red;
   height: 4px;
   width: 24px;
   background: white;
   position: absolute;
   display: inline-block;
   bottom: -8px;
-  left: 0
+  left: 0;
 }
 
 .menu-toggler {
@@ -86,7 +83,7 @@ body {
 .article-summary {
   font-size: 13px;
   line-height: 18px;
-  margin-bottom: 0px !important;
+  margin-bottom: 0 !important;
   color: #333;
 }
 
@@ -130,7 +127,7 @@ body {
 
 .article-subtile {
   font-size: 15px;
-  color: rgba(39, 39, 39, 0.5) ;
+  color: rgba(39, 39, 39, 0.5);
 }
 
 .card-transparent {
@@ -180,7 +177,7 @@ body {
 
 .sign-up-btn {
   border-radius: 0;
-  background:#666666;
+  background: #666;
   border: none;
 }
 
@@ -189,7 +186,7 @@ body {
 }
 
 .sign-up {
- max-width: 350px;
+  max-width: 350px;
 }
 
 .title-sign {
@@ -197,7 +194,7 @@ body {
 }
 
 .text-blue {
-  color: #3581F4; 
+  color: #3581f4;
 }
 
 .max-width-330 {
@@ -210,7 +207,7 @@ body {
 }
 
 .bg-gray-light {
-  background: #F4F5F6
+  background: #f4f5f6;
 }
 
 .artitle-out-title {
@@ -218,7 +215,7 @@ body {
 }
 
 .text-dark {
-  color: #000 !important; 
+  color: #000 !important;
 }
 
 .img-out {
@@ -297,7 +294,7 @@ body {
   background: url("https://d.newsweek.com/en/full/1525348/newsletter-promo-home-page.png") center center / cover no-repeat;
   content: " ";
   height: 160px;
-  width: 100%
+  width: 100%;
 }
 
 .st0 {
@@ -336,7 +333,7 @@ body {
 }
 
 .icon-sm:hover {
-  fill: #3581F4;
+  fill: #3581f4;
   cursor: pointer;
 }
 
@@ -420,15 +417,15 @@ body {
   }
 
   .border-md-bottom {
-    border-bottom: 0.5px solid #cacaca
+    border-bottom: 0.5px solid #cacaca;
   }
 
   .mapping-image {
     width: 135px;
-  height: 90px;
+    height: 90px;
   }
 
   .newsletter-img {
-    height: 288px
+    height: 288px;
   }
 }
