@@ -1,0 +1,24 @@
+{
+  "name": "using-bootstrap",
+  "version": "1.0.0",
+  "description": "Learning Bootstrap",
+  "main": "stylelint.config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "stylelint": "^10.1.0",
+    "stylelint-config-recommended": "^2.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiagoGuerra/using-bootstrap.git"
+  },
+  "author": "Santiago Guerra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SantiagoGuerra/using-bootstrap/issues"
+  },
+  "homepage": "https://github.com/SantiagoGuerra/using-bootstrap#readme"
+}
