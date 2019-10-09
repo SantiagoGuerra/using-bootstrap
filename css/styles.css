@@ -403,6 +403,17 @@ body {
 .roboto-condenced {
   font-family: 'Roboto Condensed', sans-serif;
 }
+
+.lora {
+  font-family: 'Lora', serif;
+  font-size: 20px;
+  color: #272727;
+}
+
+.border-white {
+  border: none !important;
+}
+
 @media screen and (min-width: 768px) {
   .article-summary {
     font-size: 15px;
